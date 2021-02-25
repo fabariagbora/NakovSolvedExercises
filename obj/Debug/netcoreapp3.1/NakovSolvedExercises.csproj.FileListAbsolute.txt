@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\NakovSolvedExercises\bin\Debug\netcoreapp3.1\NakovSolvedExercises.exe
+C:\Users\user\source\repos\NakovSolvedExercises\bin\Debug\netcoreapp3.1\NakovSolvedExercises.deps.json
+C:\Users\user\source\repos\NakovSolvedExercises\bin\Debug\netcoreapp3.1\NakovSolvedExercises.runtimeconfig.json
+C:\Users\user\source\repos\NakovSolvedExercises\bin\Debug\netcoreapp3.1\NakovSolvedExercises.runtimeconfig.dev.json
+C:\Users\user\source\repos\NakovSolvedExercises\bin\Debug\netcoreapp3.1\NakovSolvedExercises.dll
+C:\Users\user\source\repos\NakovSolvedExercises\bin\Debug\netcoreapp3.1\NakovSolvedExercises.pdb
+C:\Users\user\source\repos\NakovSolvedExercises\obj\Debug\netcoreapp3.1\NakovSolvedExercises.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NakovSolvedExercises\obj\Debug\netcoreapp3.1\NakovSolvedExercises.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NakovSolvedExercises\obj\Debug\netcoreapp3.1\NakovSolvedExercises.AssemblyInfo.cs
+C:\Users\user\source\repos\NakovSolvedExercises\obj\Debug\netcoreapp3.1\NakovSolvedExercises.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NakovSolvedExercises\obj\Debug\netcoreapp3.1\NakovSolvedExercises.dll
+C:\Users\user\source\repos\NakovSolvedExercises\obj\Debug\netcoreapp3.1\NakovSolvedExercises.pdb
+C:\Users\user\source\repos\NakovSolvedExercises\obj\Debug\netcoreapp3.1\NakovSolvedExercises.genruntimeconfig.cache

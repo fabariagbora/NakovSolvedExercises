@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NakovSolvedExercises", "NakovSolvedExercises.csproj", "{AA824F4C-EA6B-4D6D-9990-F768E58A7949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA824F4C-EA6B-4D6D-9990-F768E58A7949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA824F4C-EA6B-4D6D-9990-F768E58A7949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA824F4C-EA6B-4D6D-9990-F768E58A7949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA824F4C-EA6B-4D6D-9990-F768E58A7949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D9CF49-6E13-47CB-9A7F-B7E1D40FE934}
+	EndGlobalSection
+EndGlobal
